@@ -1,6 +1,6 @@
 ---
 title: "Your A4 Report Title (TODO: Revise title)"
-author: "Your Name"
+author: "Ian Paul"
 date: '2022-11-01'
 output: html_document
 ---
@@ -11,35 +11,17 @@ source("../source/analysis.R")
 ```
 
 ## Abstract 
-[TODO: Include a short abstract (about 50 words)]
 
-# Test (TODO: Remove before submission!!)
-```{r echo=FALSE}
-q1_string <- test_query1()
-num <- 5
-```
-As you know, this is a markdown report. The [R Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) is **useful!**
-
-* Here's a test of a dynamic variable. Say **"`r q1_string`!!!** 
-* Here's another test. A vector
-of numbers: `r test_query2(num)`.
-
-Recall that _{r echo=TRUE}_ can be used to display the code, 
-which is very useful when developing and debugging a report. Here's an example: 
-
-```{r echo=TRUE}
-num <- 5
-sum <- sum(test_query2(num))
-print(sum)
-```
+Racism is one of the longest standing problems that humanity has faced since the beginning of civilization. In America, it is no different. Although
+at one point our justice system was one of the first to claim "innocent until proven guilty" it is essential to prove of its upholding. Through the 
+analysis of prison system data, we can determine whether race can affect how people are treated in the justice system. 
 
 ## Introduction 
-[TODO]
+
+This specific data set is one that is meant to expose inequalities in the incarceration systems in America. These issues are deep rooted in the progressive fight for American Equality and this evidence could either prove or disprove the effectiveness of that fight. The direct stakeholders of these data sets would be data scientists, researchers, journalists, and people affected by unequal incarceration. The indirect stakeholders would be prison systems and people affected by this incarceration. In interpreting this data, I have to engage unbiased values that do not look at the data with any specific narrative. In order to find the truth, it is essential to approach in an unbiased manner. Not only this, but it is important to keep the indirect stakeholder of this data in mind and be conscious of the effect that your interpretation will bring on them. In this report, I will be answering the questions: Are there data patterns that show patterns of inequality? Where is this incarceration most prominent?
+
 
 ## Data Summary 
-[TODO]
 
-[TODO ... other sections ... See Canvas for details]
 
-_All the very best with your work!_
 

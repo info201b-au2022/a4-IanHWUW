@@ -21,6 +21,7 @@ test_query2 <- function(num=6) {
 ## Section 2  ---- 
 #----------------------------------------------------------------------------#
 # Your functions and variables might go here ... <todo: update comment>
+
 #----------------------------------------------------------------------------#
 
 ## Section 3  ---- 
@@ -30,7 +31,7 @@ test_query2 <- function(num=6) {
 #----------------------------------------------------------------------------#
 # This function ... <todo:  update comment>
 get_year_jail_pop <- function() {
-  # TODO: Implement this function 
+  
 return()   
 }
 
